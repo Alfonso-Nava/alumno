@@ -1,0 +1,4 @@
+Nombre: alfonso Nava
+edad: 23
+carrera: Informatica
+Matricula: 10048998
